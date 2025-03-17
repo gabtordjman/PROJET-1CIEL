@@ -1,5 +1,6 @@
 // Wemos Weather - 2024-2026 
-// Projet CIEL par Gabriel TORDJMAN BARRENQUI 
+// Projet CIEL par Gabriel TORDJMAN BARRENQUI
+// A téléverser sur l'ESP8266 (ou Wemos D1 Mini) pour démarrer le serveur WEB
 
 #include <WiFiClient.h> //Pour la connexion a un réseau wifi défini ci-dessous
 #include <ESP8266WebServer.h> //Bibliothèque pour le serveur web sur ESP8266
