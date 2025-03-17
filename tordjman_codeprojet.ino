@@ -10,11 +10,8 @@
 #include <DHT.h> // Ajout de la bibliothèque DHT
 #include <Adafruit_Sensor.h>
 
-//#define ssid      "ATD3-TP"        // SSID
-//#define password  ""               // PASS
-
-#define ssid      "WIFI GABRIEL"     // SSID
-#define password "NuuP9mB4"          // PASS
+#define ssid      "ATD3-TP"        // SSID
+#define password  ""               // PASS
 
 #define DHT_PIN 2 // Le PIN 2 correspond au D4 sur le Wemos
 #define DHT_TYPE DHT11 // Type du capteur (DHT11)
